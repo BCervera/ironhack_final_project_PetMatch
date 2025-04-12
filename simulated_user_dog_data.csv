@@ -1,0 +1,1001 @@
+house_size,activity_level,has_kids,hours_outside_home,lifestyle,dog_size,dog_activity_level,dog_age,dog_weight,compatible
+small,low,no,high,relaxed,Medium,Medium,Young,15 kg,0
+medium,medium,no,low,adventurous,Medium,Medium,Puppy,7 kg,0
+large,low,no,low,relaxed,Medium,Medium,Young,kg,0
+large,low,yes,high,social,Large,Low,Adult,35 kg,0
+small,high,no,medium,social,Medium,Undetermined,Unknown,0 kg,0
+medium,low,yes,low,social,Large,Low,Adult,0 kg,0
+small,medium,no,medium,relaxed,Medium,Undetermined,Adult,19 kg,0
+large,high,no,low,relaxed,Small,Low,Adult,8 kg,0
+medium,low,no,medium,relaxed,Small,Low,Young,8 kg,0
+medium,low,no,high,social,Medium,Undetermined,Young,0 kg,0
+medium,low,no,medium,adventurous,Medium,High,Adult,20 kg,0
+small,low,yes,low,social,Medium,Low,Adult,16 kg,0
+large,medium,no,high,relaxed,Large,Undetermined,Adult,0 kg,0
+large,low,no,high,relaxed,Small,Low,Adult,5 kg,0
+large,high,yes,medium,adventurous,Large,High,Young,45 kg,0
+large,high,yes,medium,adventurous,Small,High,Young,15 kg,0
+large,medium,no,medium,relaxed,Medium,Low,Senior,0 kg,0
+large,medium,no,high,adventurous,Unknown,Medium,Puppy,26 kg,0
+medium,high,no,high,adventurous,Medium,Undetermined,Young,15 kg,0
+medium,low,yes,medium,social,Large,Undetermined,Adult,36 kg,0
+medium,low,yes,high,adventurous,Unknown,Undetermined,Young,0 kg,0
+small,low,yes,low,adventurous,Medium,Undetermined,Young,0 kg,0
+medium,low,no,medium,relaxed,Medium,Undetermined,Adult,0 kg,0
+medium,high,no,medium,relaxed,Large,Low,Senior,30 kg,0
+large,high,no,low,relaxed,Medium,High,Adult,0 kg,0
+small,medium,no,medium,adventurous,Large,High,Young,20 kg,0
+medium,high,no,medium,social,Medium,Undetermined,Young,0 kg,0
+small,high,yes,low,social,Medium,High,Young,13 kg,0
+large,medium,yes,low,social,Medium,Medium,Adult,28 kg,0
+large,medium,no,low,relaxed,Medium,Undetermined,Adult,0 kg,0
+large,medium,yes,low,social,Small,Medium,Young,5 kg,0
+medium,medium,yes,medium,relaxed,Medium,High,Young,6 kg,0
+large,high,no,high,social,Unknown,Undetermined,Young,0 kg,0
+medium,high,no,low,adventurous,Unknown,Medium,Adult,39 kg,0
+large,medium,yes,medium,social,Medium,Medium,Adult,20 kg,0
+large,high,no,medium,relaxed,Small,Undetermined,Young,0 kg,0
+medium,high,no,high,relaxed,Large,High,Young,0 kg,0
+large,low,no,medium,social,Unknown,Medium,Adult,6 kg,0
+small,high,yes,medium,adventurous,Small,Medium,Adult,6 kg,0
+small,medium,yes,medium,relaxed,Medium,High,Young,15 kg,0
+medium,medium,yes,high,social,Unknown,Undetermined,Young,kg,0
+large,high,yes,low,relaxed,Medium,Medium,Adult,0 kg,0
+medium,high,no,low,relaxed,Medium,Medium,Puppy,0 kg,0
+medium,high,yes,high,adventurous,Large,Undetermined,Adult,35 kg,0
+medium,medium,yes,medium,social,Medium,Undetermined,Young,0 kg,0
+medium,medium,no,medium,social,Medium,Undetermined,Senior,25 kg,0
+small,high,yes,medium,adventurous,Medium,Medium,Senior,10 kg,0
+large,high,yes,low,adventurous,Unknown,Undetermined,Adult,kg,0
+large,medium,no,high,relaxed,Medium,Undetermined,Puppy,0 kg,0
+medium,low,yes,low,relaxed,Medium,High,Young,0 kg,0
+large,low,no,low,social,Medium,Undetermined,Adult,0 kg,0
+small,high,yes,low,adventurous,Medium,Low,Young,0 kg,0
+small,high,no,medium,social,Small,Low,Young,8 kg,0
+small,high,yes,medium,relaxed,Medium,Medium,Adult,0 kg,0
+small,low,yes,medium,adventurous,Small,Low,Adult,5 kg,0
+small,medium,yes,low,social,Unknown,Undetermined,Adult,0 kg,0
+large,low,no,medium,social,Medium,Medium,Adult,0 kg,0
+medium,high,yes,low,adventurous,Medium,Medium,Puppy,0 kg,0
+large,medium,yes,high,adventurous,Unknown,Undetermined,Puppy,kg,0
+medium,medium,yes,medium,relaxed,Medium,Medium,Adult,13 kg,0
+medium,high,no,low,social,Unknown,Medium,Adult,17 kg,0
+medium,high,no,high,adventurous,Large,Undetermined,Young,35 kg,0
+large,medium,no,medium,relaxed,Unknown,Undetermined,Adult,0 kg,0
+medium,high,no,high,relaxed,Large,Medium,Adult,0 kg,0
+large,low,no,high,social,Medium,Medium,Young,35 kg,0
+small,high,yes,low,adventurous,Unknown,Undetermined,Puppy,0 kg,0
+small,medium,no,high,adventurous,Medium,Medium,Young,20 kg,0
+medium,medium,yes,high,relaxed,Unknown,Undetermined,Young,0 kg,0
+medium,low,yes,medium,relaxed,Large,Very High,Young,20 kg,0
+large,high,yes,high,adventurous,Small,Undetermined,Young,0 kg,0
+small,medium,yes,medium,adventurous,Medium,High,Young,13 kg,0
+large,low,yes,low,relaxed,Medium,Low,Adult,25 kg,0
+small,low,yes,high,relaxed,Medium,Medium,Adult,0 kg,0
+medium,high,no,low,adventurous,Small,Medium,Adult,10 kg,0
+medium,high,no,medium,social,Medium,Medium,Adult,0 kg,0
+small,high,yes,medium,adventurous,Medium,Medium,Young,20 kg,0
+medium,low,yes,high,adventurous,Large,Low,Adult,16 kg,0
+small,high,yes,low,relaxed,Medium,Medium,Unknown,7 kg,0
+small,high,yes,high,adventurous,Unknown,Medium,Adult,48 kg,0
+medium,medium,yes,high,relaxed,Unknown,Medium,Young,8 kg,0
+large,high,no,medium,adventurous,Unknown,Undetermined,Young,kg,0
+small,medium,no,low,social,Medium,Medium,Puppy,0 kg,0
+large,high,no,high,adventurous,Medium,Medium,Senior,0 kg,0
+large,medium,yes,high,adventurous,Medium,Undetermined,Young,0 kg,0
+small,high,yes,high,social,Unknown,Undetermined,Adult,0 kg,0
+large,high,no,low,social,Medium,High,Puppy,23 kg,0
+medium,medium,no,medium,adventurous,Medium,Medium,Puppy,20 kg,0
+small,low,yes,high,relaxed,Medium,Undetermined,Adult,0 kg,0
+medium,low,yes,high,relaxed,Medium,Undetermined,Young,0 kg,0
+small,low,no,medium,relaxed,Medium,High,Young,6 kg,0
+small,medium,yes,medium,adventurous,Large,Undetermined,Young,0 kg,0
+small,high,yes,low,adventurous,Medium,Low,Young,0 kg,0
+large,medium,no,medium,adventurous,Medium,Undetermined,Adult,0 kg,0
+large,low,yes,medium,adventurous,Large,Medium,Young,20 kg,0
+small,medium,no,high,relaxed,Unknown,High,Young,32 kg,0
+medium,low,no,medium,adventurous,Small,Medium,Puppy,kg,0
+small,low,yes,medium,relaxed,Medium,Medium,Adult,13 kg,0
+small,low,no,medium,relaxed,Small,Low,Adult,8 kg,0
+large,low,yes,high,adventurous,Medium,Undetermined,Young,0 kg,0
+large,high,no,medium,social,Large,Undetermined,Adult,36 kg,0
+large,medium,no,high,relaxed,Large,Low,Adult,0 kg,0
+medium,medium,yes,high,adventurous,Unknown,Medium,Adult,30 kg,0
+medium,medium,no,medium,adventurous,Mini,Undetermined,Adult,kg,0
+medium,low,yes,high,relaxed,Unknown,Medium,Young,38 kg,0
+large,low,yes,medium,relaxed,Medium,Low,Young,21 kg,0
+medium,medium,yes,high,adventurous,Medium,Medium,Young,10 kg,0
+large,high,yes,high,adventurous,Medium,High,Young,267 kg,0
+small,low,yes,medium,relaxed,Large,High,Puppy,kg,0
+large,medium,yes,low,adventurous,Medium,Medium,Young,0 kg,0
+large,low,yes,high,social,Unknown,Medium,Young,25 kg,0
+small,low,yes,medium,relaxed,Medium,Undetermined,Unknown,0 kg,0
+large,low,yes,low,adventurous,Large,Medium,Young,0 kg,0
+large,medium,no,high,relaxed,Large,Undetermined,Adult,23 kg,0
+large,medium,yes,medium,adventurous,Medium,Medium,Puppy,5 kg,0
+small,high,no,high,relaxed,Unknown,High,Senior,27 kg,0
+medium,low,no,high,relaxed,Small,Low,Adult,7 kg,0
+small,low,no,high,social,Medium,Undetermined,Puppy,0 kg,0
+medium,medium,no,low,social,Medium,Low,Adult,0 kg,0
+medium,low,yes,high,social,Medium,Medium,Young,35 kg,0
+medium,medium,no,medium,social,Unknown,Undetermined,Young,kg,0
+large,low,yes,medium,relaxed,Medium,Medium,Adult,20 kg,0
+large,high,yes,medium,adventurous,Small,Medium,Adult,6 kg,0
+medium,high,no,high,social,Large,Low,Adult,16 kg,0
+medium,medium,no,high,adventurous,Large,Medium,Young,0 kg,0
+medium,low,yes,low,relaxed,Small,Low,Adult,8 kg,0
+small,medium,no,high,social,Medium,Medium,Young,17.5 kg,0
+small,medium,yes,low,adventurous,Small,Medium,Adult,6 kg,0
+large,medium,no,high,relaxed,Medium,Undetermined,Adult,0 kg,0
+large,low,no,medium,social,Unknown,Undetermined,Adult,0 kg,0
+medium,medium,no,low,social,Medium,Undetermined,Young,0 kg,0
+medium,medium,yes,high,relaxed,Medium,Undetermined,Adult,0 kg,0
+small,medium,no,high,social,Unknown,Medium,Young,24 kg,0
+large,low,yes,low,relaxed,Large,Medium,Adult,42 kg,0
+large,high,no,low,adventurous,Medium,Undetermined,Young,8 kg,0
+small,medium,yes,medium,relaxed,Medium,Undetermined,Young,0 kg,0
+small,medium,yes,medium,social,Small,Medium,Young,6 kg,0
+medium,low,yes,medium,social,Small,Low,Young,8 kg,0
+large,high,no,low,adventurous,Medium,High,Senior,0 kg,0
+small,high,no,high,relaxed,Large,Low,Senior,0 kg,0
+medium,low,yes,medium,adventurous,Medium,Medium,Adult,15 kg,0
+small,low,no,high,adventurous,Large,Medium,Young,30 kg,0
+medium,medium,no,medium,social,Medium,High,Adult,30 kg,0
+small,low,yes,low,adventurous,Small,Medium,Unknown,0 kg,0
+large,high,yes,high,adventurous,Unknown,Low,Adult,0 kg,0
+large,high,yes,low,adventurous,Medium,Medium,Puppy,18 kg,0
+medium,medium,yes,high,social,Medium,Medium,Puppy,20 kg,0
+small,medium,yes,low,social,Unknown,Medium,Puppy,26 kg,0
+large,medium,yes,medium,relaxed,Medium,Low,Adult,0 kg,0
+medium,medium,no,medium,relaxed,Medium,Medium,Adult,15 kg,0
+small,low,no,medium,relaxed,Unknown,Undetermined,Adult,0 kg,0
+medium,high,no,high,relaxed,Medium,Undetermined,Young,0 kg,0
+small,low,no,high,social,Unknown,Undetermined,Young,0 kg,0
+small,medium,yes,high,social,Medium,High,Young,267 kg,0
+large,high,yes,medium,relaxed,Large,High,Young,35 kg,0
+small,medium,yes,low,relaxed,Medium,High,Young,25 kg,0
+large,medium,yes,medium,relaxed,Medium,Low,Young,21 kg,0
+medium,high,yes,high,social,Unknown,Undetermined,Young,kg,0
+medium,low,yes,medium,adventurous,Unknown,Undetermined,Adult,0 kg,0
+small,low,yes,high,relaxed,Unknown,Low,Adult,6 kg,0
+medium,medium,yes,high,relaxed,Unknown,Undetermined,Young,25 kg,0
+medium,medium,yes,medium,relaxed,Unknown,Undetermined,Young,0 kg,0
+medium,high,yes,medium,relaxed,Large,Medium,Adult,30 kg,0
+medium,high,yes,medium,social,Small,Low,Young,5 kg,0
+medium,low,no,low,social,Medium,Medium,Adult,15 kg,0
+small,high,no,low,relaxed,Medium,Undetermined,Unknown,0 kg,0
+medium,low,yes,low,relaxed,Medium,Medium,Young,15 kg,0
+medium,high,no,medium,adventurous,Mini,Undetermined,Adult,kg,0
+large,low,no,high,adventurous,Unknown,Undetermined,Puppy,kg,0
+large,low,no,low,adventurous,Unknown,Medium,Adult,kg,0
+small,low,no,high,relaxed,Medium,Medium,Young,18 kg,0
+small,low,no,medium,social,Large,Medium,Young,20 kg,0
+small,high,no,high,social,Unknown,Undetermined,Adult,0 kg,0
+medium,medium,no,low,relaxed,Unknown,High,Puppy,3.8 kg,0
+small,medium,no,medium,social,Medium,Medium,Adult,25 kg,0
+large,high,yes,high,social,Small,Medium,Puppy,kg,0
+large,medium,no,low,adventurous,Medium,Low,Adult,25 kg,0
+large,low,no,high,adventurous,Medium,Medium,Young,27 kg,0
+small,high,yes,low,adventurous,Small,Low,Adult,8 kg,0
+large,high,no,low,social,Large,Undetermined,Young,35 kg,0
+medium,high,yes,medium,adventurous,Small,Medium,Adult,6 kg,0
+small,medium,no,medium,adventurous,Medium,Medium,Young,25 kg,0
+small,medium,no,high,relaxed,Medium,Medium,Adult,20 kg,0
+medium,medium,no,medium,adventurous,Large,Undetermined,Young,0 kg,0
+large,high,no,low,adventurous,Unknown,Medium,Adult,8 kg,0
+medium,high,yes,low,relaxed,Medium,Medium,Adult,30 kg,0
+small,medium,no,medium,social,Unknown,Undetermined,Puppy,kg,0
+medium,high,yes,low,relaxed,Medium,Undetermined,Young,kg,0
+small,low,no,high,adventurous,Medium,High,Young,20.5 kg,0
+large,medium,no,high,adventurous,Unknown,Medium,Young,27 kg,0
+small,medium,yes,low,social,Medium,Undetermined,Adult,0 kg,0
+medium,medium,no,medium,social,Unknown,Undetermined,Young,kg,0
+small,medium,no,low,social,Unknown,High,Senior,27 kg,0
+large,low,yes,high,adventurous,Medium,High,Young,13 kg,0
+medium,low,no,low,adventurous,Medium,Medium,Adult,25 kg,0
+small,high,yes,medium,social,Small,Low,Adult,5 kg,0
+medium,medium,no,low,adventurous,Medium,Medium,Adult,0 kg,0
+small,medium,yes,low,social,Medium,Medium,Puppy,5 kg,0
+small,medium,no,medium,adventurous,Large,High,Young,28 kg,0
+large,high,yes,low,social,Medium,Medium,Young,14 kg,0
+large,high,yes,medium,relaxed,Large,Medium,Adult,0 kg,0
+large,high,no,medium,relaxed,Large,Low,Young,0 kg,0
+small,high,yes,high,adventurous,Medium,Undetermined,Unknown,0 kg,0
+large,medium,yes,medium,adventurous,Medium,High,Adult,30 kg,0
+large,medium,yes,high,relaxed,Medium,Medium,Adult,15 kg,0
+small,high,no,medium,relaxed,Medium,Undetermined,Young,0 kg,0
+small,medium,no,medium,relaxed,Large,Undetermined,Young,25 kg,0
+medium,low,no,low,adventurous,Large,Medium,Young,30 kg,0
+large,high,no,low,relaxed,Unknown,Medium,Adult,4 kg,0
+small,medium,no,high,relaxed,Large,Low,Adult,35 kg,0
+small,high,no,low,social,Small,High,Puppy,0 kg,0
+medium,low,yes,low,social,Medium,Undetermined,Unknown,0 kg,0
+medium,low,yes,high,social,Medium,Medium,Puppy,20 kg,0
+small,high,yes,medium,adventurous,Medium,Undetermined,Puppy,12 kg,0
+large,medium,no,low,adventurous,Medium,Medium,Puppy,10 kg,0
+small,high,yes,high,adventurous,Small,Low,Adult,5 kg,0
+large,medium,no,high,adventurous,Small,Low,Young,9.5 kg,0
+small,medium,no,medium,relaxed,Large,Undetermined,Unknown,0 kg,0
+small,low,yes,medium,adventurous,Medium,Undetermined,Young,0 kg,0
+small,medium,yes,medium,relaxed,Large,Undetermined,Young,25 kg,0
+small,low,no,high,social,Unknown,Undetermined,Adult,kg,0
+medium,high,yes,medium,social,Medium,Undetermined,Young,0 kg,0
+small,low,no,high,social,Small,Medium,Adult,6 kg,0
+small,high,yes,medium,relaxed,Unknown,Undetermined,Young,kg,0
+medium,medium,no,low,relaxed,Medium,Undetermined,Young,0 kg,0
+large,medium,no,high,social,Large,Undetermined,Young,35 kg,0
+small,high,no,low,relaxed,Large,Medium,Adult,35 kg,0
+medium,high,no,low,social,Medium,Undetermined,Adult,9 kg,0
+large,medium,no,low,relaxed,Unknown,Medium,Adult,kg,0
+small,medium,yes,high,relaxed,Unknown,Low,Adult,45 kg,0
+small,high,yes,high,adventurous,Small,High,Puppy,0 kg,0
+small,low,no,high,adventurous,Unknown,Undetermined,Adult,kg,0
+large,low,no,high,relaxed,Medium,Low,Adult,22 kg,0
+small,high,yes,medium,relaxed,Small,Medium,Young,12 kg,0
+large,medium,yes,medium,social,Large,Medium,Adult,40 kg,0
+medium,medium,no,high,social,Large,High,Young,22 kg,0
+medium,medium,yes,high,relaxed,Medium,High,Young,25 kg,0
+small,high,yes,high,adventurous,Medium,Medium,Unknown,0 kg,0
+medium,high,yes,medium,social,Small,Medium,Young,5 kg,0
+small,low,no,low,relaxed,Medium,Medium,Adult,15 kg,0
+small,low,no,medium,adventurous,Large,Medium,Young,20 kg,0
+small,high,yes,medium,relaxed,Medium,Undetermined,Puppy,0 kg,0
+large,high,no,low,relaxed,Medium,Undetermined,Puppy,12 kg,0
+small,medium,yes,medium,relaxed,Medium,High,Adult,0 kg,0
+small,medium,yes,high,social,Unknown,Undetermined,Young,39 kg,0
+medium,medium,no,medium,relaxed,Medium,Medium,Young,20 kg,0
+large,low,no,low,adventurous,Large,Low,Senior,30 kg,0
+medium,low,yes,medium,relaxed,Unknown,Undetermined,Puppy,0 kg,0
+medium,high,no,high,social,Medium,Low,Adult,22 kg,0
+medium,low,no,low,relaxed,Medium,Medium,Adult,20 kg,0
+large,medium,yes,medium,relaxed,Unknown,Undetermined,Young,kg,0
+medium,low,no,low,adventurous,Medium,Low,Senior,15 kg,0
+small,high,no,low,social,Unknown,Very High,Young,12 kg,0
+large,low,yes,low,adventurous,Large,Medium,Young,0 kg,0
+small,high,no,low,social,Medium,Medium,Young,20 kg,0
+medium,low,yes,high,relaxed,Large,Medium,Young,30 kg,0
+large,medium,no,low,relaxed,Unknown,Undetermined,Young,kg,0
+large,high,yes,medium,adventurous,Giant,Undetermined,Young,40 kg,0
+medium,low,yes,low,social,Small,Medium,Adult,6 kg,0
+small,medium,yes,low,social,Medium,Undetermined,Young,0 kg,0
+small,high,yes,low,social,Large,Medium,Unknown,12 kg,0
+large,high,no,low,social,Medium,Medium,Adult,20 kg,0
+medium,medium,yes,high,relaxed,Medium,Medium,Puppy,20 kg,0
+medium,medium,yes,high,relaxed,Medium,Undetermined,Adult,0 kg,0
+large,high,no,low,adventurous,Medium,Medium,Adult,15 kg,0
+medium,low,yes,low,adventurous,Large,Medium,Adult,45 kg,0
+medium,high,yes,medium,relaxed,Large,Medium,Young,0 kg,0
+medium,low,no,low,adventurous,Medium,Medium,Puppy,0 kg,0
+medium,low,yes,high,relaxed,Unknown,Undetermined,Young,25 kg,0
+medium,low,no,medium,social,Small,Undetermined,Senior,0 kg,0
+medium,high,yes,high,adventurous,Unknown,Undetermined,Puppy,10 kg,0
+small,low,no,medium,social,Medium,Medium,Adult,30 kg,0
+medium,medium,yes,high,social,Medium,Low,Young,0 kg,0
+small,medium,yes,low,adventurous,Medium,Medium,Adult,12 kg,0
+small,high,yes,low,social,Large,Low,Young,25 kg,0
+large,medium,no,medium,adventurous,Medium,Undetermined,Young,0 kg,0
+small,high,no,high,relaxed,Unknown,Undetermined,Young,kg,0
+medium,high,no,medium,adventurous,Unknown,Undetermined,Puppy,kg,0
+large,high,yes,low,adventurous,Medium,Undetermined,Young,8 kg,0
+medium,low,yes,high,social,Small,Medium,Young,4 kg,0
+large,low,yes,high,relaxed,Medium,Medium,Young,15 kg,0
+medium,medium,no,high,adventurous,Unknown,Undetermined,Adult,kg,0
+large,high,no,low,social,Unknown,Very High,Young,12 kg,0
+small,high,yes,high,relaxed,Medium,Medium,Adult,32 kg,0
+medium,high,no,medium,social,Medium,Medium,Puppy,25 kg,0
+small,high,yes,high,relaxed,Medium,Medium,Adult,12 kg,0
+medium,medium,yes,high,social,Medium,Undetermined,Adult,0 kg,0
+medium,medium,no,high,relaxed,Medium,Medium,Puppy,25 kg,0
+medium,low,no,medium,social,Unknown,High,Adult,kg,0
+medium,low,yes,low,relaxed,Large,Medium,Young,0 kg,0
+small,medium,yes,low,relaxed,Medium,Undetermined,Adult,0 kg,0
+large,medium,yes,medium,social,Medium,Medium,Puppy,18 kg,0
+small,low,no,medium,social,Large,High,Adult,0 kg,0
+large,high,no,low,social,Unknown,Low,Adult,20 kg,0
+small,medium,yes,medium,relaxed,Medium,Undetermined,Adult,0 kg,0
+small,medium,no,low,social,Mini,Undetermined,Puppy,0 kg,0
+large,medium,no,high,adventurous,Small,Undetermined,Puppy,0 kg,0
+large,medium,no,medium,relaxed,Small,Undetermined,Puppy,0 kg,0
+large,low,no,high,social,Unknown,Undetermined,Young,13.5 kg,0
+small,low,no,low,adventurous,Medium,Medium,Puppy,0 kg,0
+medium,low,yes,low,adventurous,Unknown,Medium,Young,8 kg,0
+large,low,yes,high,adventurous,Medium,High,Young,25 kg,0
+small,high,yes,high,social,Medium,Low,Adult,16 kg,0
+large,medium,yes,low,social,Medium,Undetermined,Young,12 kg,0
+large,medium,no,high,adventurous,Medium,Medium,Adult,20 kg,0
+medium,medium,no,medium,relaxed,Small,Medium,Adult,7 kg,0
+large,medium,yes,medium,adventurous,Medium,Undetermined,Adult,0 kg,0
+small,medium,yes,medium,social,Large,High,Young,28 kg,0
+small,medium,no,high,social,Unknown,Low,Adult,6 kg,0
+medium,medium,yes,medium,social,Large,Undetermined,Adult,0 kg,0
+small,medium,yes,medium,relaxed,Medium,Medium,Adult,24 kg,0
+large,medium,yes,high,relaxed,Medium,Medium,Adult,10 kg,0
+medium,medium,yes,high,relaxed,Small,Medium,Adult,6 kg,0
+medium,medium,yes,low,relaxed,Unknown,Medium,Adult,38 kg,0
+small,low,yes,high,social,Medium,Medium,Young,9 kg,0
+large,low,no,high,relaxed,Medium,Undetermined,Young,0 kg,0
+large,high,no,medium,adventurous,Medium,High,Young,6 kg,0
+medium,medium,no,low,relaxed,Unknown,Medium,Adult,kg,0
+large,low,no,high,adventurous,Medium,Low,Young,0 kg,0
+large,medium,yes,low,adventurous,Unknown,Medium,Adult,18 kg,0
+small,medium,no,medium,relaxed,Large,Medium,Adult,0 kg,0
+large,medium,yes,high,social,Medium,Medium,Adult,7 kg,0
+small,medium,yes,high,social,Unknown,Medium,Adult,18 kg,0
+large,low,yes,medium,adventurous,Medium,Undetermined,Young,0 kg,0
+medium,high,yes,low,relaxed,Medium,Medium,Puppy,25 kg,0
+small,medium,yes,low,relaxed,Small,Low,Adult,5 kg,0
+small,high,yes,high,adventurous,Unknown,High,Young,32 kg,0
+large,low,no,medium,relaxed,Unknown,Undetermined,Puppy,kg,0
+medium,medium,no,high,social,Medium,Medium,Adult,30 kg,0
+small,low,yes,high,relaxed,Large,High,Young,34 kg,0
+medium,medium,yes,low,relaxed,Small,Medium,Puppy,7 kg,0
+small,medium,yes,high,social,Medium,Medium,Puppy,20 kg,0
+small,medium,no,high,social,Medium,Undetermined,Young,kg,0
+large,medium,yes,high,adventurous,Unknown,Undetermined,Adult,0 kg,0
+small,low,no,low,relaxed,Medium,Medium,Adult,25 kg,0
+small,medium,no,low,adventurous,Large,Undetermined,Adult,0 kg,0
+small,high,no,low,adventurous,Medium,Low,Young,20 kg,0
+large,high,no,medium,relaxed,Large,Medium,Adult,35 kg,0
+small,medium,no,low,relaxed,Unknown,Undetermined,Young,0 kg,0
+large,medium,yes,medium,social,Medium,Medium,Young,25 kg,0
+medium,high,no,low,social,Large,High,Young,45 kg,0
+small,low,no,medium,social,Giant,Low,Adult,0 kg,0
+medium,medium,yes,low,adventurous,Unknown,Medium,Adult,30 kg,0
+large,medium,yes,low,social,Medium,Medium,Adult,25 kg,0
+large,medium,yes,low,social,Large,Medium,Adult,0 kg,0
+medium,medium,yes,medium,adventurous,Medium,Undetermined,Young,12 kg,0
+medium,low,no,low,adventurous,Unknown,Undetermined,Puppy,kg,0
+large,high,yes,low,relaxed,Large,Low,Senior,30 kg,0
+small,low,yes,low,adventurous,Medium,Medium,Adult,0 kg,0
+medium,medium,no,medium,adventurous,Medium,Undetermined,Young,0 kg,0
+small,medium,yes,low,social,Medium,Medium,Young,27 kg,0
+medium,high,yes,low,social,Medium,Undetermined,Young,8 kg,0
+medium,low,yes,low,relaxed,Medium,High,Young,25 kg,0
+small,low,no,medium,relaxed,Medium,Medium,Young,14 kg,0
+medium,high,no,high,social,Small,Low,Adult,7 kg,0
+small,medium,no,low,relaxed,Large,Medium,Adult,0 kg,0
+large,medium,yes,low,adventurous,Small,Medium,Unknown,0 kg,0
+large,medium,yes,high,relaxed,Medium,Medium,Adult,20 kg,0
+medium,medium,no,high,social,Small,Low,Adult,5 kg,0
+small,high,no,low,adventurous,Small,Undetermined,Adult,0 kg,0
+small,high,no,medium,relaxed,Small,Low,Young,8 kg,0
+large,medium,no,high,adventurous,Large,High,Young,22 kg,0
+medium,high,yes,high,adventurous,Unknown,Medium,Adult,30 kg,0
+large,high,no,low,social,Medium,Undetermined,Puppy,18 kg,0
+large,low,yes,medium,adventurous,Medium,Undetermined,Adult,0 kg,0
+large,low,no,high,relaxed,Medium,Medium,Adult,0 kg,0
+small,low,no,medium,relaxed,Medium,Undetermined,Young,0 kg,0
+large,high,no,medium,adventurous,Small,Low,Adult,8 kg,0
+medium,medium,no,high,relaxed,Medium,Undetermined,Young,0 kg,0
+small,high,no,medium,relaxed,Small,High,Young,20 kg,0
+small,high,no,low,relaxed,Medium,Medium,Adult,32 kg,0
+small,low,yes,low,relaxed,Large,Medium,Young,30 kg,0
+medium,medium,yes,low,adventurous,Unknown,Medium,Puppy,kg,0
+small,high,yes,medium,relaxed,Medium,High,Senior,28 kg,0
+small,high,yes,high,adventurous,Unknown,Medium,Adult,4 kg,0
+large,low,yes,high,adventurous,Medium,High,Adult,0 kg,0
+large,low,no,low,relaxed,Unknown,Medium,Young,8 kg,0
+small,medium,no,low,social,Giant,Undetermined,Adult,kg,0
+large,medium,no,medium,relaxed,Medium,High,Young,kg,0
+large,high,no,high,relaxed,Medium,Undetermined,Adult,0 kg,0
+large,medium,no,low,adventurous,Medium,Medium,Unknown,0 kg,0
+large,low,yes,medium,adventurous,Medium,High,Young,6 kg,0
+medium,high,yes,medium,adventurous,Medium,Undetermined,Unknown,0 kg,0
+large,high,yes,low,relaxed,Medium,Undetermined,Adult,19 kg,0
+medium,low,yes,low,social,Unknown,Undetermined,Adult,0 kg,0
+medium,high,no,low,adventurous,Small,Low,Adult,8 kg,0
+large,low,yes,low,adventurous,Large,Medium,Young,0 kg,0
+small,low,yes,low,social,Unknown,Medium,Adult,25 kg,0
+large,medium,no,medium,relaxed,Unknown,High,Young,23 kg,0
+small,low,yes,high,adventurous,Medium,Undetermined,Young,0 kg,0
+small,low,yes,low,adventurous,Large,High,Adult,0 kg,0
+medium,high,no,high,relaxed,Small,Medium,Young,6 kg,0
+medium,medium,no,low,social,Medium,High,Senior,0 kg,0
+large,medium,yes,low,adventurous,Medium,Medium,Young,18 kg,0
+medium,medium,yes,low,relaxed,Medium,Undetermined,Unknown,0 kg,0
+medium,medium,yes,high,adventurous,Large,Medium,Young,25 kg,0
+medium,low,no,low,adventurous,Large,Medium,Adult,42 kg,0
+medium,medium,yes,low,adventurous,Medium,Undetermined,Adult,19 kg,0
+large,high,yes,medium,relaxed,Small,Undetermined,Young,0 kg,0
+medium,high,yes,high,adventurous,Unknown,Undetermined,Puppy,0 kg,0
+large,high,no,high,adventurous,Medium,High,Young,0 kg,0
+large,low,no,low,relaxed,Large,Low,Adult,0 kg,0
+medium,medium,yes,low,social,Unknown,Medium,Adult,kg,0
+medium,medium,yes,medium,social,Medium,Medium,Young,35 kg,0
+large,medium,no,medium,social,Medium,Undetermined,Unknown,0 kg,0
+small,high,yes,high,relaxed,Medium,High,Adult,0 kg,0
+small,medium,no,high,social,Medium,High,Young,32 kg,0
+medium,low,yes,medium,relaxed,Medium,Undetermined,Young,0 kg,0
+large,high,yes,low,adventurous,Large,Medium,Young,33 kg,0
+medium,low,yes,low,relaxed,Unknown,Medium,Adult,38 kg,0
+medium,medium,no,high,relaxed,Medium,Medium,Adult,20 kg,0
+large,high,yes,low,relaxed,Unknown,High,Young,23 kg,0
+small,high,yes,low,adventurous,Medium,Undetermined,Young,0 kg,0
+small,medium,yes,low,adventurous,Medium,Medium,Puppy,7 kg,0
+medium,medium,yes,low,relaxed,Large,Undetermined,Adult,0 kg,0
+large,high,no,high,social,Medium,Medium,Young,17.5 kg,0
+medium,medium,yes,high,relaxed,Small,Low,Adult,8 kg,0
+medium,high,yes,medium,social,Large,Very High,Young,20 kg,0
+medium,high,yes,low,adventurous,Large,Medium,Unknown,12 kg,0
+small,medium,yes,high,adventurous,Medium,Medium,Puppy,0 kg,0
+medium,medium,no,medium,relaxed,Unknown,Medium,Senior,3.5 kg,0
+large,medium,no,high,adventurous,Large,Medium,Adult,0 kg,0
+medium,medium,no,low,relaxed,Unknown,Undetermined,Puppy,kg,0
+large,medium,no,low,social,Medium,Medium,Adult,24 kg,0
+small,medium,no,low,social,Medium,High,Adult,26 kg,0
+large,low,no,low,social,Unknown,Undetermined,Puppy,0 kg,0
+large,medium,yes,low,relaxed,Large,High,Young,50 kg,0
+large,low,no,low,relaxed,Medium,Undetermined,Puppy,0 kg,0
+small,high,yes,high,adventurous,Medium,Medium,Adult,30 kg,0
+small,low,yes,high,social,Large,Undetermined,Adult,0 kg,0
+medium,high,yes,low,adventurous,Unknown,Undetermined,Puppy,kg,0
+small,low,yes,high,adventurous,Medium,Medium,Adult,0 kg,0
+medium,high,yes,medium,social,Medium,Medium,Young,32 kg,0
+small,medium,no,high,social,Large,High,Young,45 kg,0
+small,low,no,medium,relaxed,Medium,Medium,Adult,0 kg,0
+small,medium,yes,medium,relaxed,Unknown,Medium,Adult,kg,0
+large,high,no,low,relaxed,Medium,Undetermined,Adult,0 kg,0
+large,low,no,high,relaxed,Unknown,Medium,Young,8 kg,0
+large,low,yes,high,adventurous,Medium,Medium,Puppy,10 kg,0
+large,medium,yes,low,relaxed,Medium,Medium,Unknown,0 kg,0
+large,medium,yes,low,adventurous,Medium,High,Young,32 kg,0
+large,high,no,low,relaxed,Unknown,High,Young,32 kg,0
+medium,high,no,low,adventurous,Large,Undetermined,Adult,25 kg,0
+large,low,no,medium,social,Medium,Undetermined,Adult,0 kg,0
+small,high,yes,low,relaxed,Giant,Undetermined,Adult,kg,0
+small,high,yes,low,adventurous,Unknown,Very High,Young,12 kg,0
+medium,low,yes,low,social,Unknown,Undetermined,Adult,kg,0
+small,high,no,high,social,Small,Undetermined,Adult,0 kg,0
+small,low,yes,medium,adventurous,Medium,Medium,Adult,0 kg,0
+medium,high,yes,low,adventurous,Medium,Undetermined,Puppy,0 kg,0
+medium,high,no,high,adventurous,Medium,Medium,Puppy,25 kg,0
+medium,medium,no,high,social,Medium,Undetermined,Adult,0 kg,0
+small,low,no,medium,social,Unknown,Medium,Adult,12 kg,0
+large,low,yes,high,relaxed,Large,Medium,Adult,40 kg,0
+large,medium,no,medium,adventurous,Small,Undetermined,Senior,0 kg,0
+medium,medium,no,medium,adventurous,Large,Medium,Adult,0 kg,0
+large,high,yes,high,social,Unknown,Undetermined,Young,25 kg,0
+large,low,yes,medium,relaxed,Medium,Undetermined,Young,0 kg,0
+large,high,yes,medium,adventurous,Unknown,Undetermined,Senior,kg,0
+medium,low,no,medium,adventurous,Medium,High,Young,267 kg,0
+medium,medium,no,medium,relaxed,Medium,Undetermined,Young,0 kg,0
+large,low,no,medium,social,Medium,Medium,Young,16 kg,0
+large,high,yes,high,relaxed,Medium,Medium,Young,14 kg,0
+small,high,no,low,social,Unknown,Undetermined,Young,kg,0
+large,low,no,low,relaxed,Unknown,Undetermined,Young,25 kg,0
+large,high,no,medium,adventurous,Medium,Medium,Adult,20 kg,0
+small,low,no,high,social,Unknown,Undetermined,Adult,kg,0
+small,medium,no,high,social,Unknown,Undetermined,Senior,0 kg,0
+large,medium,yes,high,relaxed,Medium,Undetermined,Young,0 kg,0
+medium,high,yes,medium,social,Unknown,Low,Adult,0 kg,0
+medium,high,no,medium,social,Small,Low,Young,5 kg,0
+large,high,no,high,social,Medium,Medium,Adult,25 kg,0
+small,high,yes,high,relaxed,Medium,Medium,Senior,10 kg,0
+small,low,no,low,relaxed,Large,Low,Young,25 kg,0
+medium,medium,no,high,relaxed,Unknown,Undetermined,Puppy,0 kg,0
+large,low,yes,medium,social,Medium,Low,Adult,22 kg,0
+large,high,no,low,social,Medium,Undetermined,Unknown,0 kg,0
+small,high,no,low,relaxed,Unknown,Low,Adult,45 kg,0
+large,medium,yes,medium,relaxed,Unknown,Medium,Adult,30 kg,0
+large,high,yes,low,social,Medium,High,Young,25 kg,0
+large,medium,yes,medium,adventurous,Medium,Undetermined,Adult,0 kg,0
+small,medium,yes,low,relaxed,Medium,Undetermined,Adult,0 kg,0
+small,medium,no,high,adventurous,Medium,Undetermined,Young,0 kg,0
+medium,low,no,high,adventurous,Medium,Undetermined,Young,0 kg,0
+large,medium,no,high,relaxed,Medium,Low,Adult,22 kg,0
+small,medium,no,high,adventurous,Unknown,Undetermined,Puppy,kg,0
+large,low,yes,low,relaxed,Large,Low,Young,25 kg,0
+small,low,no,high,adventurous,Small,Medium,Puppy,kg,0
+medium,medium,no,high,adventurous,Large,Undetermined,Adult,25 kg,0
+medium,low,yes,high,relaxed,Unknown,Undetermined,Young,20 kg,0
+small,low,no,low,adventurous,Medium,Low,Adult,25 kg,0
+medium,low,no,low,adventurous,Unknown,Undetermined,Young,20 kg,0
+small,high,no,high,social,Medium,High,Adult,23 kg,0
+medium,high,yes,medium,relaxed,Unknown,Medium,Adult,17 kg,0
+large,low,no,low,relaxed,Large,Medium,Unknown,29 kg,0
+medium,medium,no,high,relaxed,Large,Undetermined,Adult,0 kg,0
+small,high,no,low,social,Small,High,Puppy,7 kg,0
+small,medium,no,low,adventurous,Medium,Medium,Adult,20 kg,0
+medium,high,no,low,social,Medium,High,Puppy,kg,0
+medium,medium,yes,medium,adventurous,Medium,Undetermined,Adult,0 kg,0
+medium,medium,yes,low,adventurous,Medium,Medium,Unknown,0 kg,0
+small,low,yes,low,relaxed,Unknown,Medium,Adult,kg,0
+medium,medium,no,medium,social,Medium,Undetermined,Young,0 kg,0
+small,high,no,low,adventurous,Medium,Medium,Young,20 kg,0
+medium,medium,no,high,adventurous,Unknown,Medium,Adult,17 kg,0
+small,low,no,low,relaxed,Medium,Undetermined,Young,5 kg,0
+medium,high,no,medium,adventurous,Mini,Undetermined,Adult,kg,0
+small,high,no,high,relaxed,Medium,High,Young,6 kg,0
+small,low,yes,medium,adventurous,Medium,Medium,Adult,32 kg,0
+large,low,no,low,adventurous,Large,Undetermined,Young,35 kg,0
+large,low,no,low,adventurous,Unknown,Low,Adult,12 kg,0
+small,low,yes,medium,relaxed,Medium,Medium,Adult,30 kg,0
+large,medium,yes,low,adventurous,Small,Medium,Puppy,7 kg,0
+medium,medium,no,low,relaxed,Unknown,Medium,Puppy,kg,0
+large,low,no,high,social,Medium,Undetermined,Young,5 kg,0
+small,medium,no,medium,relaxed,Large,Low,Adult,0 kg,0
+large,low,yes,medium,adventurous,Medium,Undetermined,Young,0 kg,0
+medium,high,yes,high,relaxed,Small,Medium,Adult,0 kg,0
+medium,medium,yes,high,adventurous,Medium,Medium,Unknown,7 kg,0
+small,medium,yes,high,relaxed,Unknown,Undetermined,Young,0 kg,0
+medium,medium,yes,medium,social,Medium,Medium,Adult,26 kg,0
+small,medium,no,low,relaxed,Medium,Medium,Adult,13 kg,0
+large,high,yes,low,relaxed,Unknown,Undetermined,Adult,0 kg,0
+medium,low,yes,low,relaxed,Unknown,Undetermined,Adult,0 kg,0
+medium,low,no,medium,social,Small,Medium,Unknown,0 kg,0
+large,medium,yes,medium,adventurous,Unknown,High,Young,26.5 kg,0
+medium,low,yes,low,relaxed,Small,Medium,Puppy,7 kg,0
+large,low,yes,high,adventurous,Unknown,Medium,Adult,12 kg,0
+large,high,yes,high,adventurous,Medium,High,Puppy,kg,0
+small,medium,no,low,social,Small,Undetermined,Young,0 kg,0
+large,medium,yes,high,relaxed,Small,Medium,Adult,6 kg,0
+medium,low,yes,medium,social,Large,Medium,Young,0 kg,0
+small,medium,no,low,relaxed,Medium,Undetermined,Young,kg,0
+medium,low,no,low,social,Medium,Medium,Unknown,0 kg,0
+large,medium,yes,medium,relaxed,Unknown,Undetermined,Adult,0 kg,0
+small,medium,yes,high,adventurous,Large,High,Young,35 kg,0
+large,low,yes,low,social,Medium,Medium,Puppy,0 kg,0
+medium,low,no,low,social,Medium,High,Young,0 kg,0
+small,high,yes,low,relaxed,Small,Medium,Adult,7 kg,0
+small,high,no,medium,adventurous,Large,Low,Adult,40 kg,0
+medium,high,yes,low,adventurous,Medium,Undetermined,Adult,9 kg,0
+medium,medium,no,medium,adventurous,Unknown,Low,Adult,20 kg,0
+medium,high,no,low,relaxed,Medium,Medium,Young,14 kg,0
+small,high,yes,low,adventurous,Medium,Medium,Puppy,20 kg,0
+medium,low,no,medium,adventurous,Large,Low,Senior,0 kg,0
+small,medium,yes,high,relaxed,Large,High,Puppy,kg,0
+large,medium,yes,medium,relaxed,Unknown,Medium,Adult,25 kg,0
+large,high,yes,high,social,Small,Low,Adult,8 kg,0
+large,low,no,low,relaxed,Medium,Medium,Young,kg,0
+medium,low,no,low,relaxed,Medium,Medium,Young,14 kg,0
+small,low,no,low,social,Unknown,Medium,Young,kg,0
+small,medium,yes,medium,relaxed,Unknown,Medium,Young,22 kg,0
+medium,low,yes,medium,social,Medium,High,Young,13 kg,0
+medium,low,no,low,relaxed,Unknown,High,Puppy,3.8 kg,0
+medium,low,yes,medium,relaxed,Large,High,Young,35 kg,0
+small,medium,yes,high,social,Medium,Undetermined,Young,18 kg,0
+large,medium,no,high,relaxed,Medium,Medium,Puppy,20 kg,0
+small,high,no,high,social,Unknown,Undetermined,Puppy,0 kg,0
+small,high,yes,high,relaxed,Medium,Low,Young,17.3 kg,0
+large,low,no,high,adventurous,Medium,Medium,Puppy,25 kg,0
+medium,medium,no,high,social,Medium,High,Young,16 kg,0
+large,medium,yes,high,adventurous,Unknown,Medium,Young,38 kg,0
+medium,high,no,medium,social,Small,High,Young,15 kg,0
+large,medium,no,high,relaxed,Medium,Undetermined,Young,0 kg,0
+medium,low,no,low,relaxed,Medium,Undetermined,Young,0 kg,0
+medium,medium,yes,high,relaxed,Medium,High,Young,0 kg,0
+small,high,yes,medium,adventurous,Large,Very High,Young,20 kg,0
+small,medium,yes,medium,adventurous,Small,Medium,Young,12 kg,0
+small,high,yes,high,relaxed,Medium,Medium,Puppy,0 kg,0
+large,high,no,low,relaxed,Large,Medium,Adult,40 kg,0
+medium,medium,yes,medium,relaxed,Medium,Medium,Young,27 kg,0
+large,high,no,medium,social,Medium,Medium,Young,25 kg,0
+small,low,yes,high,adventurous,Unknown,Undetermined,Young,0 kg,0
+large,medium,no,low,adventurous,Medium,Medium,Adult,32 kg,0
+small,high,yes,medium,social,Large,Medium,Young,26 kg,0
+medium,high,no,high,relaxed,Medium,Medium,Puppy,25 kg,0
+small,medium,no,high,adventurous,Unknown,Medium,Adult,30 kg,0
+small,low,yes,high,adventurous,Medium,Medium,Unknown,0 kg,0
+small,medium,no,high,adventurous,Medium,High,Young,20 kg,0
+medium,high,no,low,adventurous,Unknown,Undetermined,Puppy,kg,0
+large,high,no,high,social,Large,High,Young,28 kg,0
+large,medium,no,high,adventurous,Medium,Medium,Puppy,25 kg,0
+medium,low,yes,low,social,Medium,Low,Adult,25 kg,0
+large,medium,yes,low,adventurous,Large,High,Adult,28 kg,0
+medium,medium,no,high,social,Small,Medium,Adult,6 kg,0
+medium,low,no,low,relaxed,Medium,High,Puppy,kg,0
+large,medium,no,high,social,Medium,High,Young,17 kg,0
+medium,medium,no,high,social,Unknown,Medium,Adult,6 kg,0
+small,high,no,high,adventurous,Medium,Undetermined,Puppy,0 kg,0
+small,low,yes,high,social,Medium,Medium,Puppy,7 kg,0
+medium,low,yes,high,social,Medium,Low,Young,20 kg,0
+large,low,no,medium,adventurous,Medium,Medium,Young,9 kg,0
+large,high,yes,medium,social,Unknown,Medium,Young,27 kg,0
+medium,low,no,low,social,Unknown,Medium,Young,22 kg,0
+medium,high,yes,high,relaxed,Large,Medium,Adult,40 kg,0
+small,low,no,medium,adventurous,Unknown,High,Young,26.5 kg,0
+medium,low,no,high,social,Medium,Medium,Young,15 kg,0
+medium,low,no,high,adventurous,Medium,Undetermined,Unknown,0 kg,0
+small,low,yes,high,relaxed,Medium,High,Puppy,kg,0
+large,low,no,high,relaxed,Medium,Undetermined,Adult,0 kg,0
+medium,medium,yes,high,adventurous,Medium,Low,Adult,16 kg,0
+medium,low,no,high,social,Medium,Medium,Adult,25 kg,0
+medium,high,yes,medium,adventurous,Medium,Undetermined,Adult,17 kg,0
+medium,low,no,high,relaxed,Medium,High,Young,kg,0
+medium,medium,no,high,adventurous,Unknown,High,Young,26.5 kg,0
+medium,medium,no,high,relaxed,Large,Low,Adult,0 kg,0
+large,low,no,high,social,Large,Medium,Adult,35 kg,0
+large,medium,no,medium,relaxed,Large,High,Young,34 kg,0
+small,high,no,low,social,Medium,Low,Adult,0 kg,0
+large,low,no,medium,social,Medium,Undetermined,Young,0 kg,0
+large,high,yes,high,social,Medium,High,Young,kg,0
+small,high,yes,low,relaxed,Medium,Medium,Unknown,0 kg,0
+large,high,no,low,relaxed,Medium,Medium,Puppy,0 kg,0
+small,low,no,medium,relaxed,Medium,High,Adult,26 kg,0
+small,low,no,medium,adventurous,Medium,Undetermined,Young,0 kg,0
+small,low,no,high,adventurous,Large,Low,Adult,40 kg,0
+small,high,no,medium,relaxed,Unknown,Medium,Adult,48 kg,0
+small,medium,yes,high,social,Medium,High,Young,17 kg,0
+small,low,yes,medium,social,Large,Undetermined,Adult,0 kg,0
+large,medium,no,medium,adventurous,Medium,Medium,Young,18 kg,0
+small,high,yes,medium,relaxed,Medium,Medium,Adult,7 kg,0
+medium,high,no,high,relaxed,Medium,Medium,Adult,12 kg,0
+medium,low,no,medium,relaxed,Large,Undetermined,Young,25 kg,0
+medium,low,yes,high,social,Unknown,Undetermined,Puppy,0 kg,0
+medium,low,no,medium,social,Unknown,Undetermined,Young,kg,0
+medium,low,no,medium,relaxed,Large,High,Young,65 kg,0
+medium,medium,yes,high,relaxed,Unknown,Undetermined,Adult,0 kg,0
+medium,medium,yes,high,social,Small,High,Puppy,7 kg,0
+small,high,no,low,adventurous,Unknown,Medium,Adult,kg,0
+large,high,no,high,adventurous,Small,Undetermined,Young,0 kg,0
+medium,medium,no,low,social,Large,Medium,Adult,40 kg,0
+medium,high,yes,high,social,Medium,Medium,Young,20 kg,0
+large,low,no,high,social,Large,Undetermined,Adult,0 kg,0
+large,low,yes,high,adventurous,Medium,Undetermined,Puppy,0 kg,0
+medium,low,no,high,adventurous,Medium,Medium,Puppy,0 kg,0
+medium,medium,no,low,adventurous,Medium,Undetermined,Puppy,kg,0
+medium,medium,yes,high,relaxed,Medium,Medium,Adult,32 kg,0
+large,low,no,high,social,Medium,Undetermined,Young,0 kg,0
+medium,medium,yes,medium,relaxed,Large,Undetermined,Young,25 kg,0
+small,high,yes,medium,adventurous,Large,Medium,Adult,0 kg,0
+medium,low,yes,high,relaxed,Small,Low,Young,9.5 kg,0
+small,low,yes,medium,relaxed,Small,Medium,Puppy,kg,0
+medium,high,yes,medium,social,Medium,Low,Senior,0 kg,0
+medium,medium,yes,low,social,Unknown,Medium,Puppy,26 kg,0
+medium,medium,no,low,social,Large,High,Adult,30 kg,0
+small,high,no,high,adventurous,Large,Low,Senior,0 kg,0
+small,medium,no,medium,social,Unknown,Medium,Adult,6 kg,0
+large,low,yes,medium,social,Medium,Medium,Unknown,0 kg,0
+large,high,yes,high,social,Medium,Medium,Puppy,20 kg,0
+small,high,yes,low,social,Large,Medium,Young,26 kg,0
+medium,high,no,medium,relaxed,Medium,Medium,Young,35 kg,0
+small,low,no,high,social,Large,Low,Senior,30 kg,0
+small,high,yes,medium,adventurous,Unknown,Medium,Young,38 kg,0
+medium,high,no,medium,social,Unknown,Undetermined,Senior,kg,0
+large,medium,yes,low,relaxed,Large,Medium,Young,30 kg,0
+large,low,no,medium,adventurous,Large,High,Adult,28 kg,0
+medium,low,no,medium,adventurous,Unknown,High,Puppy,3.8 kg,0
+medium,high,no,low,relaxed,Medium,Undetermined,Young,0 kg,0
+large,medium,no,low,social,Large,Medium,Unknown,12 kg,0
+large,low,yes,low,social,Medium,Medium,Adult,15 kg,0
+medium,medium,yes,high,relaxed,Medium,Medium,Young,0 kg,0
+small,medium,no,low,relaxed,Medium,Medium,Puppy,25 kg,0
+large,high,no,medium,relaxed,Small,Medium,Young,12 kg,0
+small,low,no,low,adventurous,Large,Medium,Young,0 kg,0
+small,low,yes,low,relaxed,Unknown,High,Young,23 kg,0
+small,medium,no,medium,relaxed,Unknown,Undetermined,Puppy,kg,0
+medium,low,no,high,adventurous,Medium,High,Young,20 kg,0
+small,medium,yes,medium,adventurous,Medium,High,Puppy,kg,0
+large,low,yes,high,adventurous,Unknown,Medium,Puppy,26 kg,0
+medium,medium,yes,high,adventurous,Medium,Medium,Puppy,25 kg,0
+medium,medium,no,medium,adventurous,Medium,Medium,Young,32 kg,0
+small,high,yes,high,adventurous,Medium,Medium,Adult,28 kg,0
+small,low,yes,high,social,Large,Undetermined,Adult,23 kg,0
+small,low,yes,high,relaxed,Large,Undetermined,Young,25 kg,0
+medium,high,yes,medium,relaxed,Medium,Low,Young,17.3 kg,0
+small,low,no,high,relaxed,Medium,High,Young,25 kg,0
+small,high,yes,high,adventurous,Medium,Low,Adult,25 kg,0
+small,low,no,high,adventurous,Unknown,Medium,Adult,4 kg,0
+medium,high,no,low,relaxed,Unknown,Medium,Young,22 kg,0
+medium,high,yes,medium,adventurous,Medium,Undetermined,Adult,0 kg,0
+small,medium,yes,medium,relaxed,Medium,Medium,Young,27 kg,0
+small,low,yes,low,social,Large,Low,Adult,40 kg,0
+small,low,no,medium,adventurous,Unknown,Undetermined,Young,kg,0
+large,low,no,medium,adventurous,Medium,Undetermined,Adult,19 kg,0
+small,medium,yes,medium,adventurous,Large,Medium,Unknown,29 kg,0
+medium,low,yes,high,social,Unknown,Undetermined,Adult,0 kg,0
+small,low,yes,high,social,Small,Undetermined,Young,0 kg,0
+medium,high,no,high,social,Unknown,Undetermined,Young,13.5 kg,0
+small,high,yes,high,relaxed,Medium,High,Adult,18 kg,0
+large,high,no,low,adventurous,Medium,Undetermined,Adult,0 kg,0
+small,high,no,low,social,Medium,High,Young,0 kg,0
+small,high,no,high,adventurous,Medium,Undetermined,Unknown,0 kg,0
+medium,high,yes,low,adventurous,Large,High,Adult,0 kg,0
+large,high,no,high,adventurous,Unknown,Undetermined,Adult,0 kg,0
+small,medium,yes,high,social,Medium,Medium,Adult,20 kg,0
+large,low,yes,low,social,Unknown,Medium,Adult,38 kg,0
+large,high,no,high,adventurous,Medium,Medium,Young,20 kg,0
+large,high,no,medium,adventurous,Medium,Low,Young,17.3 kg,0
+small,medium,no,medium,adventurous,Unknown,Medium,Adult,8 kg,0
+small,low,no,medium,relaxed,Medium,Undetermined,Senior,25 kg,0
+small,high,no,medium,relaxed,Large,Low,Adult,0 kg,0
+large,medium,yes,high,relaxed,Unknown,High,Adult,kg,0
+small,low,yes,low,adventurous,Large,Low,Young,0 kg,0
+medium,medium,yes,medium,adventurous,Medium,Medium,Adult,12 kg,0
+small,medium,no,high,adventurous,Medium,High,Adult,0 kg,0
+small,low,no,high,relaxed,Small,Medium,Adult,6 kg,0
+medium,low,no,medium,relaxed,Unknown,High,Adult,kg,0
+small,low,yes,low,social,Medium,Undetermined,Adult,19 kg,0
+large,low,yes,low,relaxed,Medium,Medium,Adult,20 kg,0
+medium,low,no,low,social,Small,Medium,Puppy,8 kg,0
+large,low,yes,low,relaxed,Medium,Medium,Adult,32 kg,0
+small,medium,no,medium,social,Large,Medium,Young,26 kg,0
+small,high,yes,low,adventurous,Unknown,Medium,Young,21 kg,0
+medium,low,no,medium,social,Unknown,Undetermined,Young,kg,0
+large,medium,no,low,adventurous,Medium,Low,Unknown,0 kg,0
+small,high,no,high,relaxed,Medium,Medium,Adult,15 kg,0
+large,high,no,medium,relaxed,Large,Medium,Adult,0 kg,0
+large,low,yes,medium,adventurous,Medium,Undetermined,Young,18 kg,0
+small,medium,yes,medium,relaxed,Medium,Undetermined,Young,0 kg,0
+small,high,yes,medium,relaxed,Medium,Medium,Puppy,0 kg,0
+large,low,yes,medium,adventurous,Medium,Medium,Adult,26 kg,0
+large,low,yes,medium,social,Large,Medium,Adult,35 kg,0
+medium,low,yes,medium,adventurous,Medium,Medium,Puppy,18 kg,0
+large,low,yes,high,social,Medium,Low,Young,21 kg,0
+medium,low,no,low,adventurous,Medium,Low,Senior,0 kg,0
+small,medium,yes,medium,social,Medium,Undetermined,Young,kg,0
+small,medium,yes,low,social,Medium,Medium,Adult,26 kg,0
+small,low,yes,medium,social,Medium,Medium,Adult,15 kg,0
+medium,medium,yes,medium,social,Medium,Medium,Adult,20 kg,0
+medium,low,yes,high,social,Medium,Undetermined,Young,0 kg,0
+medium,low,yes,low,relaxed,Medium,Undetermined,Young,0 kg,0
+small,medium,no,low,adventurous,Unknown,Very High,Young,20 kg,0
+medium,medium,yes,low,social,Unknown,Undetermined,Young,25 kg,0
+large,high,no,low,social,Medium,Medium,Adult,25 kg,0
+small,medium,yes,high,adventurous,Large,Medium,Adult,42 kg,0
+medium,high,yes,high,adventurous,Small,Undetermined,Young,0 kg,0
+medium,high,no,low,adventurous,Unknown,Undetermined,Young,0 kg,0
+large,medium,no,low,social,Medium,Undetermined,Young,0 kg,0
+large,high,yes,high,social,Medium,High,Senior,28 kg,0
+small,low,no,low,social,Medium,Undetermined,Young,0 kg,0
+large,low,no,medium,social,Medium,Undetermined,Adult,0 kg,0
+medium,low,no,medium,social,Medium,Medium,Young,18 kg,0
+large,medium,no,low,adventurous,Medium,Undetermined,Puppy,18 kg,0
+medium,low,no,medium,adventurous,Unknown,Medium,Young,kg,0
+large,medium,no,medium,social,Medium,Medium,Young,15 kg,0
+small,medium,yes,low,relaxed,Large,Low,Young,0 kg,0
+medium,high,no,medium,adventurous,Medium,Medium,Young,16 kg,0
+large,high,yes,high,social,Medium,Medium,Young,25 kg,0
+medium,medium,yes,high,adventurous,Unknown,Undetermined,Young,25 kg,0
+medium,low,yes,medium,relaxed,Medium,High,Senior,28 kg,0
+large,low,yes,medium,social,Medium,Undetermined,Young,8 kg,0
+medium,high,no,low,relaxed,Medium,Medium,Adult,20 kg,0
+small,low,no,low,adventurous,Unknown,High,Young,26.5 kg,0
+large,medium,no,low,relaxed,Large,Medium,Adult,35 kg,0
+small,low,no,medium,social,Medium,Medium,Puppy,20 kg,0
+small,high,yes,medium,adventurous,Medium,Medium,Young,20 kg,0
+small,medium,no,medium,social,Large,Undetermined,Unknown,0 kg,0
+small,high,no,medium,adventurous,Medium,Undetermined,Adult,0 kg,0
+small,medium,no,medium,adventurous,Small,Low,Adult,0 kg,0
+small,medium,yes,medium,adventurous,Small,Low,Adult,5 kg,0
+large,low,yes,high,social,Medium,Medium,Young,34 kg,0
+large,medium,no,high,relaxed,Large,Low,Adult,35 kg,0
+large,medium,no,low,relaxed,Unknown,Undetermined,Unknown,0 kg,0
+large,medium,no,medium,social,Medium,Undetermined,Adult,0 kg,0
+medium,high,yes,high,relaxed,Unknown,High,Senior,27 kg,0
+small,high,yes,medium,adventurous,Large,Medium,Young,0 kg,0
+medium,high,yes,high,relaxed,Large,Medium,Adult,45 kg,0
+large,low,yes,medium,relaxed,Large,Medium,Young,33 kg,0
+large,high,no,medium,adventurous,Medium,Medium,Young,20 kg,0
+medium,low,no,medium,social,Large,High,Adult,28 kg,0
+medium,low,no,low,adventurous,Medium,Medium,Adult,0 kg,0
+medium,medium,no,medium,relaxed,Unknown,Medium,Adult,39 kg,0
+medium,high,yes,low,adventurous,Unknown,Undetermined,Young,kg,0
+small,low,no,medium,relaxed,Small,Undetermined,Adult,0 kg,0
+medium,high,no,high,adventurous,Medium,Medium,Young,20 kg,0
+large,medium,yes,low,relaxed,Large,Medium,Adult,0 kg,0
+medium,high,no,high,adventurous,Unknown,Medium,Young,8 kg,0
+large,medium,yes,medium,adventurous,Large,Medium,Young,20 kg,0
+medium,high,yes,low,adventurous,Medium,Medium,Young,0 kg,0
+large,low,yes,medium,relaxed,Unknown,Undetermined,Young,0 kg,0
+medium,low,yes,medium,social,Medium,Undetermined,Puppy,0 kg,0
+large,high,yes,low,social,Medium,Undetermined,Young,0 kg,0
+medium,low,no,medium,social,Medium,Undetermined,Adult,0 kg,0
+medium,high,no,medium,adventurous,Unknown,Medium,Young,27 kg,0
+medium,low,yes,high,adventurous,Medium,Medium,Young,0 kg,0
+small,low,no,low,social,Medium,Medium,Adult,20 kg,0
+large,medium,yes,medium,adventurous,Small,Undetermined,Young,0 kg,0
+medium,high,yes,low,relaxed,Small,High,Puppy,7 kg,0
+medium,high,no,low,relaxed,Medium,Medium,Adult,7 kg,0
+medium,low,yes,medium,adventurous,Large,High,Young,20 kg,0
+medium,high,yes,low,relaxed,Unknown,Undetermined,Puppy,kg,0
+medium,low,yes,high,adventurous,Medium,Low,Young,17.3 kg,0
+large,low,no,medium,adventurous,Medium,High,Puppy,kg,0
+large,high,no,medium,adventurous,Small,Medium,Young,4 kg,0
+small,high,no,low,social,Unknown,Very High,Young,12 kg,0
+small,high,yes,medium,relaxed,Medium,Undetermined,Senior,25 kg,0
+medium,low,no,medium,relaxed,Large,Medium,Young,20 kg,0
+large,low,yes,low,social,Unknown,Undetermined,Puppy,kg,0
+small,medium,yes,medium,social,Medium,Medium,Young,14 kg,0
+small,low,no,low,adventurous,Unknown,Medium,Senior,3.5 kg,0
+medium,high,yes,high,adventurous,Large,Low,Adult,35 kg,0
+medium,low,yes,low,adventurous,Medium,High,Young,16 kg,0
+large,high,yes,medium,social,Medium,Undetermined,Adult,0 kg,0
+large,medium,no,low,adventurous,Large,Medium,Adult,0 kg,0
+large,low,no,low,adventurous,Unknown,Medium,Young,21 kg,0
+medium,medium,yes,low,relaxed,Giant,Low,Adult,0 kg,0
+small,medium,yes,low,social,Medium,High,Adult,0 kg,0
+small,medium,no,low,adventurous,Large,Medium,Young,0 kg,0
+small,high,no,low,relaxed,Large,Low,Young,26 kg,0
+medium,low,yes,medium,relaxed,Small,High,Puppy,0 kg,0
+medium,high,no,low,social,Large,High,Young,28 kg,0
+large,high,no,medium,adventurous,Small,Low,Adult,5 kg,0
+medium,medium,no,medium,social,Medium,Undetermined,Unknown,0 kg,0
+large,low,yes,low,adventurous,Large,Undetermined,Young,25 kg,0
+large,high,no,low,adventurous,Medium,Medium,Adult,20 kg,0
+large,high,yes,high,adventurous,Medium,Undetermined,Young,0 kg,0
+large,medium,yes,medium,social,Medium,High,Young,25 kg,0
+large,medium,yes,high,social,Unknown,High,Senior,27 kg,0
+small,medium,yes,high,social,Unknown,Medium,Young,8 kg,0
+large,medium,no,high,relaxed,Unknown,Medium,Adult,kg,0
+large,high,no,low,social,Medium,Low,Adult,25 kg,0
+medium,low,no,low,adventurous,Medium,Undetermined,Young,12 kg,0
+large,high,yes,low,adventurous,Unknown,Medium,Adult,17 kg,0
+small,medium,no,low,social,Unknown,Undetermined,Young,kg,0
+large,high,yes,medium,relaxed,Large,High,Young,50 kg,0
+medium,high,yes,high,adventurous,Small,Undetermined,Puppy,0 kg,0
+small,high,no,low,social,Unknown,High,Senior,27 kg,0
+small,medium,no,high,social,Unknown,Medium,Adult,2 kg,0
+large,high,no,high,relaxed,Medium,High,Puppy,kg,0
+small,medium,yes,medium,relaxed,Small,High,Puppy,7 kg,0
+large,high,no,medium,relaxed,Small,Medium,Adult,7 kg,0
+medium,high,no,low,social,Medium,Medium,Young,25 kg,0
+medium,high,yes,medium,relaxed,Unknown,Medium,Adult,kg,0
+large,high,yes,medium,adventurous,Small,Low,Adult,0 kg,0
+small,medium,yes,high,social,Medium,Medium,Puppy,20 kg,0
+large,medium,no,medium,relaxed,Unknown,Undetermined,Young,0 kg,0
+medium,low,no,low,relaxed,Medium,Medium,Young,16 kg,0
+medium,high,yes,low,relaxed,Medium,Undetermined,Unknown,0 kg,0
+large,medium,yes,low,adventurous,Small,Low,Young,5 kg,0
+small,low,no,medium,relaxed,Unknown,Medium,Adult,25 kg,0
+medium,low,no,medium,social,Medium,Medium,Young,18 kg,0
+small,medium,yes,medium,adventurous,Unknown,Medium,Young,kg,0
+medium,high,yes,high,social,Medium,High,Young,25 kg,0
+large,low,yes,medium,social,Large,High,Young,0 kg,0
+large,medium,yes,medium,social,Large,Medium,Adult,42 kg,0
+medium,high,yes,high,relaxed,Large,Low,Adult,0 kg,0
+large,high,yes,high,relaxed,Medium,Low,Young,0 kg,0
+medium,high,yes,medium,social,Large,Medium,Adult,45 kg,0
+large,high,yes,low,social,Large,Undetermined,Young,35 kg,0
+large,medium,no,high,adventurous,Large,Low,Senior,0 kg,0
+large,medium,yes,low,adventurous,Medium,Undetermined,Puppy,0 kg,0
+large,medium,no,medium,relaxed,Small,High,Puppy,0 kg,0
+small,medium,yes,medium,relaxed,Unknown,Medium,Young,25 kg,0
+large,low,yes,low,social,Large,Low,Young,0 kg,0
+medium,high,no,medium,adventurous,Large,Medium,Young,30 kg,0
+small,high,yes,low,social,Large,Medium,Adult,40 kg,0
+small,low,yes,high,social,Large,Medium,Adult,40 kg,0
+small,low,yes,medium,social,Unknown,Medium,Puppy,26 kg,0
+large,low,yes,medium,adventurous,Medium,Medium,Young,17.5 kg,0
+small,high,yes,high,adventurous,Unknown,Medium,Adult,6 kg,0
+small,medium,no,medium,adventurous,Medium,Medium,Young,20 kg,0
+medium,low,no,medium,adventurous,Unknown,Medium,Adult,8 kg,0
+large,medium,yes,medium,relaxed,Unknown,Undetermined,Puppy,0 kg,0
+medium,low,no,medium,adventurous,Unknown,Medium,Young,21 kg,0
+small,medium,yes,high,adventurous,Medium,Undetermined,Young,10 kg,0
+large,medium,no,high,relaxed,Unknown,Undetermined,Senior,0 kg,0
+small,high,yes,low,adventurous,Medium,Undetermined,Young,15 kg,0
+medium,high,no,medium,relaxed,Medium,Medium,Young,0 kg,0
+small,medium,no,low,adventurous,Large,Medium,Unknown,12 kg,0
+small,high,yes,medium,relaxed,Unknown,Undetermined,Young,0 kg,0
+large,high,yes,low,social,Unknown,Medium,Young,40 kg,0
+large,medium,no,high,adventurous,Medium,Undetermined,Young,0 kg,0
+medium,low,yes,medium,relaxed,Medium,Medium,Adult,15 kg,0
+medium,medium,no,low,social,Medium,Undetermined,Young,0 kg,0
+large,medium,no,medium,social,Small,Low,Adult,7 kg,0
+medium,medium,no,medium,relaxed,Medium,Medium,Young,27 kg,0
+small,high,yes,medium,social,Large,Medium,Young,33 kg,0
+large,medium,yes,low,social,Large,Undetermined,Adult,0 kg,0
+small,high,no,medium,social,Large,Medium,Unknown,29 kg,0
+medium,high,no,high,relaxed,Unknown,Medium,Adult,30 kg,0
+small,high,yes,high,adventurous,Medium,Medium,Adult,24 kg,0
+small,low,no,high,adventurous,Small,Medium,Adult,0 kg,0
+medium,high,yes,medium,social,Medium,High,Adult,18 kg,0
+medium,medium,no,medium,social,Unknown,Medium,Adult,30 kg,0
+large,high,no,high,social,Medium,Undetermined,Adult,0 kg,0
+small,medium,yes,medium,social,Unknown,Medium,Adult,12 kg,0
+large,high,yes,medium,relaxed,Small,Low,Young,8 kg,0
+medium,high,no,high,adventurous,Large,Low,Adult,18 kg,0
+large,low,no,medium,social,Medium,Medium,Young,27 kg,0
+large,medium,yes,low,relaxed,Unknown,Very High,Young,20 kg,0
+large,low,yes,low,adventurous,Mini,Undetermined,Puppy,0 kg,0
+medium,low,yes,low,relaxed,Medium,Undetermined,Young,15 kg,0
+small,high,no,high,social,Small,Low,Young,8 kg,0
+large,low,yes,medium,relaxed,Medium,Medium,Young,25 kg,0
+large,medium,yes,medium,adventurous,Small,Undetermined,Young,0 kg,0
+medium,medium,yes,low,social,Large,Low,Adult,40 kg,0
+small,low,no,low,social,Unknown,Medium,Adult,39 kg,0
+medium,high,no,low,relaxed,Large,Medium,Adult,35 kg,0
+small,low,yes,high,social,Medium,Medium,Senior,0 kg,0
+medium,low,no,low,relaxed,Unknown,Undetermined,Puppy,kg,0
+small,high,yes,low,social,Medium,Medium,Adult,0 kg,0
+small,high,no,low,adventurous,Medium,Undetermined,Young,12 kg,0
+medium,medium,yes,low,social,Medium,Medium,Adult,20 kg,0
+large,medium,yes,medium,adventurous,Small,Undetermined,Young,0 kg,0
+large,high,no,medium,relaxed,Large,Medium,Adult,42 kg,0
+medium,high,yes,medium,adventurous,Medium,Undetermined,Young,15 kg,0
+medium,medium,no,medium,relaxed,Medium,Medium,Young,10 kg,0
+large,medium,no,medium,relaxed,Large,Medium,Young,0 kg,0
+medium,medium,no,low,adventurous,Medium,Medium,Unknown,0 kg,0
+large,low,yes,high,social,Medium,Low,Young,0 kg,0
+large,medium,yes,medium,relaxed,Small,Low,Adult,5 kg,0
+medium,high,yes,low,social,Medium,Medium,Unknown,0 kg,0
+medium,low,no,medium,adventurous,Medium,Medium,Young,30 kg,0
+large,high,yes,medium,relaxed,Large,Medium,Adult,0 kg,0
+medium,low,no,medium,adventurous,Unknown,Medium,Young,25 kg,0
+large,medium,no,medium,adventurous,Medium,Undetermined,Adult,0 kg,0
+large,high,no,medium,adventurous,Unknown,Undetermined,Puppy,kg,0
+small,medium,no,medium,adventurous,Medium,Undetermined,Adult,0 kg,0
+large,medium,yes,high,relaxed,Medium,High,Young,32 kg,0
+small,medium,no,low,social,Medium,Medium,Adult,25 kg,0
+medium,medium,no,low,social,Medium,Medium,Young,13 kg,0
+large,low,no,medium,adventurous,Medium,Medium,Young,25 kg,0
+large,low,no,high,social,Medium,High,Senior,0 kg,0
+large,low,yes,low,adventurous,Small,Undetermined,Adult,0 kg,0
+medium,high,yes,low,relaxed,Medium,Medium,Adult,30 kg,0
+large,high,no,medium,adventurous,Large,High,Young,0 kg,0
+medium,medium,yes,low,adventurous,Medium,High,Young,20 kg,0
+small,low,no,low,adventurous,Small,Low,Young,8 kg,0
+medium,high,yes,medium,adventurous,Medium,Medium,Puppy,7 kg,0
+large,medium,no,low,social,Unknown,Undetermined,Senior,0 kg,0
+small,low,yes,low,relaxed,Large,Undetermined,Adult,0 kg,0
+large,medium,yes,low,relaxed,Small,Low,Adult,8 kg,0
+large,low,yes,high,relaxed,Large,Very High,Young,20 kg,0
+medium,high,yes,low,social,Medium,Undetermined,Unknown,0 kg,0
+large,medium,yes,high,adventurous,Medium,High,Puppy,kg,0
+large,medium,no,medium,relaxed,Medium,Low,Adult,16 kg,0
+small,low,no,medium,relaxed,Medium,Undetermined,Puppy,kg,0
+small,high,yes,medium,adventurous,Small,Low,Adult,5 kg,0
+large,low,no,high,relaxed,Medium,High,Puppy,23 kg,0
+small,low,no,low,social,Medium,Medium,Adult,15 kg,0
+small,low,yes,medium,relaxed,Small,Low,Adult,8 kg,0
+large,low,no,low,adventurous,Small,Medium,Adult,7 kg,0
+medium,medium,no,medium,social,Unknown,Medium,Young,22 kg,0
+small,medium,no,low,relaxed,Unknown,Medium,Young,15 kg,0
+large,high,no,high,social,Medium,Undetermined,Adult,0 kg,0
+medium,medium,no,high,social,Medium,Undetermined,Unknown,0 kg,0
+large,high,yes,medium,social,Small,High,Young,20 kg,0
+small,high,yes,low,adventurous,Medium,Medium,Young,27 kg,0
+medium,high,no,low,adventurous,Giant,Low,Adult,0 kg,0
+medium,medium,no,low,relaxed,Unknown,Undetermined,Young,13.5 kg,0
+small,high,no,low,social,Medium,High,Young,267 kg,0
+large,low,no,low,social,Medium,Medium,Puppy,25 kg,0
+medium,medium,yes,medium,adventurous,Unknown,Undetermined,Puppy,0 kg,0
+medium,medium,yes,low,adventurous,Medium,High,Puppy,kg,0
+large,medium,yes,high,adventurous,Medium,Undetermined,Adult,0 kg,0
+medium,high,yes,medium,relaxed,Small,Medium,Young,6 kg,0
+medium,high,yes,medium,social,Medium,Undetermined,Adult,0 kg,0
+large,low,yes,medium,social,Medium,Medium,Adult,28 kg,0
+medium,low,yes,medium,adventurous,Medium,Medium,Unknown,7 kg,0
+medium,medium,yes,medium,adventurous,Small,Low,Young,8 kg,0
+medium,high,no,low,adventurous,Unknown,Low,Adult,6 kg,0
+large,low,no,low,relaxed,Small,Low,Adult,5 kg,0
+medium,low,yes,low,social,Unknown,Undetermined,Young,0 kg,0
+medium,medium,no,medium,relaxed,Unknown,Undetermined,Young,0 kg,0
+small,high,yes,medium,relaxed,Unknown,Medium,Adult,38 kg,0
+medium,medium,yes,high,adventurous,Medium,Undetermined,Young,5 kg,0
+small,high,yes,high,relaxed,Small,Medium,Puppy,8 kg,0
+medium,medium,yes,low,relaxed,Medium,Medium,Adult,25 kg,0
+small,high,yes,low,relaxed,Medium,Medium,Adult,30 kg,0
+small,low,yes,medium,social,Mini,Undetermined,Adult,kg,0
+small,low,yes,low,adventurous,Small,Low,Young,8 kg,0
+large,high,yes,high,adventurous,Large,Undetermined,Young,0 kg,0
+small,high,yes,low,social,Medium,High,Adult,20 kg,0
+large,medium,no,high,relaxed,Large,Undetermined,Young,35 kg,0
+small,high,no,medium,adventurous,Medium,High,Adult,23 kg,0
+large,high,no,low,social,Unknown,Medium,Adult,18 kg,0
+small,high,no,low,relaxed,Medium,Undetermined,Puppy,0 kg,0
+large,high,no,high,social,Medium,Medium,Young,14 kg,0
+large,high,no,low,adventurous,Medium,Undetermined,Unknown,0 kg,0
+medium,high,yes,medium,social,Large,High,Young,35 kg,0
+large,high,yes,low,social,Medium,Undetermined,Young,8 kg,0
+large,high,yes,high,adventurous,Medium,Medium,Adult,0 kg,0
+large,medium,no,medium,adventurous,Medium,Undetermined,Young,kg,0
+large,high,no,low,social,Medium,Medium,Adult,32 kg,0
+large,medium,no,medium,adventurous,Giant,Undetermined,Adult,kg,0
+small,medium,yes,medium,adventurous,Large,Undetermined,Adult,23 kg,0
+large,medium,no,high,relaxed,Medium,Low,Adult,25 kg,0
+large,medium,no,low,relaxed,Unknown,Medium,Adult,kg,0
+small,medium,no,low,social,Large,Medium,Adult,35 kg,0
+small,medium,yes,medium,relaxed,Medium,Medium,Adult,30 kg,0
+medium,low,no,high,adventurous,Medium,High,Adult,12 kg,0
+large,high,no,high,relaxed,Unknown,Undetermined,Young,0 kg,0
+large,medium,no,low,adventurous,Medium,Medium,Puppy,0 kg,0
+medium,high,yes,medium,social,Medium,High,Adult,26 kg,0
+small,high,yes,low,relaxed,Medium,Medium,Adult,20 kg,0
+large,medium,no,high,relaxed,Unknown,High,Young,26.5 kg,0
+large,high,yes,high,relaxed,Small,Low,Adult,5 kg,0
+large,high,no,high,social,Small,Low,Adult,0 kg,0
+large,high,yes,low,relaxed,Large,Low,Senior,0 kg,0
+medium,medium,no,low,social,Medium,Medium,Adult,0 kg,0
+medium,low,yes,high,social,Medium,Undetermined,Young,5 kg,0
